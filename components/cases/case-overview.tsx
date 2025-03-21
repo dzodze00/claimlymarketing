@@ -102,4 +102,3 @@ export function CaseOverview({ caseDetails }: CaseOverviewProps) {
     </div>
   )
 }
-
